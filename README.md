@@ -1,2 +1,1 @@
-# Sample_Git_Repo
-This is branch master.
+# This is branch master.
