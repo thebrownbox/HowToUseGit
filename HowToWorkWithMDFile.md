@@ -15,7 +15,8 @@ Markdown tutorial: https://www.markdowntutorial.com/
 ###### Header6 Nhưng có thể cho _italics_ vào header
 
 ***************** Links **********************</b>
-- Text to display is in `[]` and the url is in `()`, they have to put next to each others: </b>
+- Text to display is in `[]` and the url is in `()`, they have to put next to each others: 
+</b>
 `[Go to My Personal Blog](http://www.hoangvancong.com/)`</b>
 [Go to My Personal Blog](http://www.hoangvancong.com/)
 
