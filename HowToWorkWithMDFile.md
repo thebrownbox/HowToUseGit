@@ -17,7 +17,7 @@ Markdown tutorial: https://www.markdowntutorial.com/
 ***************** Links **********************</b>
 - Text to display is in `[]` and the url is in `()`, they have to put next to each others: 
 </b>
-`[Go to My Personal Blog](http://www.hoangvancong.com/)`</b>
+```[Go to My Personal Blog](http://www.hoangvancong.com/)```</b>
 [Go to My Personal Blog](http://www.hoangvancong.com/)
 
 - You can also mix it in header: 
