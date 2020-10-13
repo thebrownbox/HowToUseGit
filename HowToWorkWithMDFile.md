@@ -16,7 +16,7 @@ Markdown tutorial: https://www.markdowntutorial.com/
 
 ***************** Links **********************</b>
 - Text to display is in "[]" and the url is in "()", they have to put next to each others.
-* [Go to My Personal Blog](http://www.hoangvancong.com/)
+* [Go to My Personal Blog](http://www.hoangvancong.com/){:target="_blank"}
 - You can also mix it in header: 
 #### [Go to My _Personal Blog_](http://www.hoangvancong.com/)
 
