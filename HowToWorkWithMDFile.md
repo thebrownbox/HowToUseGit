@@ -15,4 +15,12 @@ Markdown tutorial: https://www.markdowntutorial.com/
 ###### Header6 Nhưng có thể cho _italics_ vào header
 
 ***************** Links **********************</b>
-[Go to My Personal Blog](http://www.hoangvancong.com/)
+- Text to display is in "[]" and the url is in "()", they have to put next to each others.
+* [Go to My Personal Blog](http://www.hoangvancong.com/)
+- You can also mix it in header: 
+#### [Go to My _Personal Blog_](http://www.hoangvancong.com/)
+
+***************** Images **********************</b>
+-
+![Markdown Image](https://vi.wikipedia.org/wiki/Markdown#/media/T%E1%BA%ADp_tin:Markdown-mark.svg)
+
