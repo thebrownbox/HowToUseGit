@@ -20,7 +20,7 @@ Markdown tutorial: https://www.markdowntutorial.com/
 [Go to My Personal Blog](http://www.hoangvancong.com/)
 
 - You can also mix it in header: 
-#### [Go to My _Personal Blog_](http://www.hoangvancong.com/)
+#### [This is link in header 4](http://www.hoangvancong.com/)
 
 - You can also save a reference to refer it any time: [RefName]: Content to refer
 [MY_BLOG]: http://www.hoangvancong.com/
