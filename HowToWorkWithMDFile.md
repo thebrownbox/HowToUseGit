@@ -15,7 +15,7 @@ Markdown tutorial: https://www.markdowntutorial.com/
 ###### Header6 Nhưng có thể cho _italics_ vào header
 
 ***************** Links **********************</b>
-- Text to display is in `[]` and the url is in `()`, they have to put next to each others:  </b>
+- Text to display is in `[]` and the url is in `()`, they have to put next to each others:  <br/>
 `[Go to My Personal Blog](http://www.hoangvancong.com/)`</b>
 [Go to My Personal Blog](http://www.hoangvancong.com/)
 
@@ -27,6 +27,6 @@ Markdown tutorial: https://www.markdowntutorial.com/
 [Test](MY_BLOG)
 
 ***************** Images **********************</b>
-- It's almost the same with links, you just have to put `!` in front of the hold things `[]()`: <\b>
+- It's almost the same with links, you just have to put `!` in front of the hold things `[]()`: <br/>
 ![Markdown Image](https://cdn.guidingtech.com/media/assets/WordPress-Import/2014/01/markdown-logo2-300x201.png)
 
