@@ -22,5 +22,5 @@ Markdown tutorial: https://www.markdowntutorial.com/
 
 ***************** Images **********************</b>
 -
-![Markdown Image](https://vi.wikipedia.org/wiki/Markdown#/media/T%E1%BA%ADp_tin:Markdown-mark.svg)
+![Markdown Image](https://cdn.guidingtech.com/media/assets/WordPress-Import/2014/01/markdown-logo2-300x201.png)
 
