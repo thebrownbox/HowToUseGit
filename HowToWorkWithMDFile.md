@@ -22,11 +22,11 @@ Markdown tutorial: https://www.markdowntutorial.com/
 - You can also mix it in header: 
 #### [This is link in header 4](http://www.hoangvancong.com/)
 
-- You can also save a reference to refer it any time: [RefName]: Content to refer
-[MY_BLOG]: http://www.hoangvancong.com/
-[Test](MY_BLOG)
 
 ***************** Images **********************</b>
 - It's almost the same with links, you just have to put `!` in front of the hold things `[]()`: <br/>
 ![Markdown Image](https://cdn.guidingtech.com/media/assets/WordPress-Import/2014/01/markdown-logo2-300x201.png)
+- Using reference image url: `[REF_LINK]: https://TheImageLink.png` <br/>  
+[MD_IMG_URL]: https://cdn.guidingtech.com/media/assets/WordPress-Import/2014/01/markdown-logo2-300x201.png
 
+![Markdown Image]([MD_IMG_URL])
