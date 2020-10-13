@@ -27,6 +27,6 @@ Markdown tutorial: https://www.markdowntutorial.com/
 [Test](MY_BLOG)
 
 ***************** Images **********************</b>
-- It's almost the same with links, you just have to put `!` in front of the hold things `[]()`:
+- It's almost the same with links, you just have to put `!` in front of the hold things `[]()`: <\b>
 ![Markdown Image](https://cdn.guidingtech.com/media/assets/WordPress-Import/2014/01/markdown-logo2-300x201.png)
 
