@@ -20,13 +20,15 @@ Checkout: http://www.hoangvancong.com/category/software-development/tools/git/
 
 ## Social commands
 **NOTE: COMMIT -> PULL -> MERGE or FIX Conflict if needed -> PUSH** <br/>
-#### Clone new project
+#### 1. Clone new project
 ```git clone https://github.com/thebrownbox/HowToUseGit.git```
-#### Checkout an exist branch 
+#### 2. Checkout an exist branch 
 ```git checkout exist_branch```
-#### Create and Checkout a new branch
+#### 3. Create and Checkout a new branch
 ```git checkout -b new_branch```
-#### Merge branch other_branch into current branch
+#### 4. Push commited chages to remote
+```git push```
+#### 5. Merge branch other_branch into current branch
 ```git merge other_branch```
 
 #### NEW
