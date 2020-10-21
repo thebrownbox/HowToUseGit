@@ -1,4 +1,5 @@
 Markdown tutorial: https://www.markdowntutorial.com/
+***IMPORTANCE NOTE: View this file in RAW format***
 
 ***************** Leters **********************</b>
 - Chữ in nghiên - italics: _test1_ 
