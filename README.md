@@ -1,5 +1,17 @@
 # Basic git commands
 ## Local commands
+#### Initialize a new LOCAL git repository in CURRENT FOLDER
+```git init```
+#### Initialize a new LOCAL git repository in NEW_FOLDER
+```git init NEW_FOLDER```
+#### Add a UNTRACKED_FILE or MODIFIED_FILE to staging area
+```git add FILE_NAME```
+#### Add a all changes in CURRENT_FOLDER to staging area
+```git add .```
+#### Check current status
+```git status```
+#### Commit
+```.```
 
 ## Social commands
 #### Clone new project
