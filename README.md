@@ -19,7 +19,7 @@ Checkout: http://www.hoangvancong.com/category/software-development/tools/git/
 
 
 ## Social commands
-NOTE: COMMIT -> PULL -> MERGE or FIX Conflict if needed -> PUSH <br/>
+**NOTE: COMMIT -> PULL -> MERGE or FIX Conflict if needed -> PUSH** <br/>
 #### Clone new project
 ```git clone https://github.com/thebrownbox/HowToUseGit.git```
 #### Checkout an exist branch 
