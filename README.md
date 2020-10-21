@@ -1,3 +1,5 @@
 # Basic git commands
-Update
-2
+### Clone new project
+```git clone```
+### Checkout an exist branch 
+### Create and Checkout a new branch
