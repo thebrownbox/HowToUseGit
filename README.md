@@ -2,18 +2,18 @@
 Checkout: http://www.hoangvancong.com/category/software-development/tools/git/
 
 ## Local commands
-#### 1. Initialize a new LOCAL git repository in CURRENT FOLDER
-```git init```
-#### 2. Initialize a new LOCAL git repository in NEW_FOLDER
-```git init NEW_FOLDER```
-#### 3. Add a UNTRACKED_FILE or MODIFIED_FILE to staging area
+#### 1. Initialize a new LOCAL git repository 
+```git init``` [_Init in CURRENT FOLDER_]<br/>
+```git init NEW_FOLDER```[_Init in NEW FOLDER_]
+#### 2. Add a UNTRACKED_FILE or MODIFIED_FILE to staging area
 ```git add FILE_NAME``` <br/>
 ```git add .``` [_Add a all changes in CURRENT_FOLDER to staging area_]
-#### 5. Check current status
+#### 3. Check current status
 ```git status```
-#### 6. Commit files in staging area
-```git commit -m "your_message"```
-#### 7. Show log
+#### 4. Commit files in staging area
+```git commit -m "your_message"``` <br/>
+```git commit -am "your_message"```[_Do both add command and commit command at the same time_]
+#### 5. Show log
 ```git log```
 ```git log --oneline```
 
@@ -29,4 +29,4 @@ Checkout: http://www.hoangvancong.com/category/software-development/tools/git/
 ```git merge other_branch```
 
 #### NEW
-```command```
+```command```[_NOTE_]
