@@ -12,7 +12,7 @@ Checkout: http://www.hoangvancong.com/category/software-development/tools/git/
 ```git status```
 #### 4. Commit files in staging area
 ```git commit -m "your_message"``` <br/>
-```git commit -am "your_message"```[_Do both add command and commit command at the same time_]
+```git commit -am "your_message"```[_Do both "add" command and "commit" command at the same time_]
 #### 5. Show log
 ```git log```
 ```git log --oneline```
