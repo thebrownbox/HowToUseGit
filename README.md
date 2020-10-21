@@ -8,12 +8,16 @@ Checkout: http://www.hoangvancong.com/category/software-development/tools/git/
 ```git init NEW_FOLDER```
 #### 3. Add a UNTRACKED_FILE or MODIFIED_FILE to staging area
 ```git add FILE_NAME```
-#### 4. Add a all changes in CURRENT_FOLDER to staging area
+Add a all changes in CURRENT_FOLDER to staging area
 ```git add .```
 #### 5. Check current status
 ```git status```
 #### 6. Commit files in staging area
 ```git commit -m "your_message"```
+#### 7. Show log
+```git log```
+```git log --oneline```
+
 
 ## Social commands
 #### Clone new project
@@ -24,3 +28,6 @@ Checkout: http://www.hoangvancong.com/category/software-development/tools/git/
 ```git checkout -b new_branch```
 #### Merge branch other_branch into current branch
 ```git merge other_branch```
+
+#### NEW
+```command```
