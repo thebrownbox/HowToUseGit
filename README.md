@@ -1,4 +1,7 @@
 # Basic git commands
+## Local commands
+
+## Social commands
 #### Clone new project
 ```git clone https://github.com/thebrownbox/HowToUseGit.git```
 #### Checkout an exist branch 
