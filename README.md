@@ -8,8 +8,7 @@ Checkout: http://www.hoangvancong.com/category/software-development/tools/git/
 ```git init NEW_FOLDER```
 #### 3. Add a UNTRACKED_FILE or MODIFIED_FILE to staging area
 ```git add FILE_NAME```
-Add a all changes in CURRENT_FOLDER to staging area
-```git add .```
+```git add .``` ***Add a all changes in CURRENT_FOLDER to staging area***
 #### 5. Check current status
 ```git status```
 #### 6. Commit files in staging area
