@@ -14,8 +14,8 @@ Checkout: http://www.hoangvancong.com/category/software-development/tools/git/
 ```git commit -m "your_message"``` <br/>
 ```git commit -am "your_message"```[_Do both "add" command and "commit" command at the same time_]
 #### 5. Show log
-```git log```
-```git log --oneline```
+```git log``` <br/>
+```git log --oneline```[_More offen_]
 
 
 ## Social commands
