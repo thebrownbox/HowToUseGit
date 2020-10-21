@@ -1,4 +1,6 @@
 # Basic git commands
+Checkout: http://www.hoangvancong.com/category/software-development/tools/git/
+
 ## Local commands
 #### Initialize a new LOCAL git repository in CURRENT FOLDER
 ```git init```
