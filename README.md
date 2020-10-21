@@ -5,5 +5,5 @@
 ```git checkout release```
 #### Create and Checkout a new branch
 ```git checkout -b new_branch```
-#### Create and Checkout a new branch
-```git checkout -b new_branch```
+#### Merge branch other_branch into current branch
+```git merge other_branch```
