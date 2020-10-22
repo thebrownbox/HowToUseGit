@@ -15,8 +15,9 @@ Checkout: http://www.hoangvancong.com/category/software-development/tools/git/
 ```git commit -am "your_message"```[_Do both "add" command and "commit" command at the same time_]
 #### 5. Show log
 ```git log``` <br/>
-```git log --oneline```[_More offen_]
-
+```git log --oneline```[_More offen_]<br/>
+```log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit``` [_Most Offen_]<br/>
+```git config --global alias.lg "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit"```[_With this config you only have to type "git lg"_]<br/>
 
 ## Social commands
 **NOTE: COMMIT -> PULL -> MERGE or FIX Conflict if needed -> PUSH** <br/>
