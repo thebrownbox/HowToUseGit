@@ -27,6 +27,8 @@ Checkout: http://www.hoangvancong.com/category/software-development/tools/git/
 ```git checkout exist_branch```
 #### 3. Create and Checkout a new branch
 ```git checkout -b new_branch```
+#### Push local branch to remote
+```git push -u origin new_branch```
 #### 4. Push commited chages to remote
 ```git push```
 #### 5. Merge branch other_branch into current branch
