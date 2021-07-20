@@ -1,6 +1,15 @@
 # Basic git commands
 Checkout: http://www.hoangvancong.com/category/software-development/tools/git/
 
+# First command
+### Setting username and email
+```git config --global user.name "FIRST_NAME LAST_NAME"```<br/>
+```git config --global user.email "MY_NAME@example.com"```<br/>
+
+### Save username and password
+```git config --global credential.helper store```<br/>
+```git pull```<br/>
+
 ## Local commands
 #### 1. Initialize a new LOCAL git repository 
 ```git init``` [_Init in CURRENT FOLDER_]<br/>
