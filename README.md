@@ -10,6 +10,9 @@ Checkout: http://www.hoangvancong.com/category/software-development/tools/git/
 ```git config --global credential.helper store```<br/>
 ```git pull```<br/>
 
+### Get personal tocken for password:
+```https://github.com/settings/tokens```
+
 ## Local commands
 #### 1. Initialize a new LOCAL git repository 
 ```git init``` [_Init in CURRENT FOLDER_]<br/>
